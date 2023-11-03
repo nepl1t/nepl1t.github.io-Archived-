@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>所想 on nepl1t Type-3 Cafe</title>
+    <link>https://nepl1t.github.io/tags/%E6%89%80%E6%83%B3/</link>
+    <description>Recent content in 所想 on nepl1t Type-3 Cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Oct 2023 10:57:57 +0800</lastBuildDate><atom:link href="https://nepl1t.github.io/tags/%E6%89%80%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://nepl1t.github.io/post/%E6%89%80%E6%83%B3/first/</link>
+      <pubDate>Fri, 27 Oct 2023 10:57:57 +0800</pubDate>
+      
+      <guid>https://nepl1t.github.io/post/%E6%89%80%E6%83%B3/first/</guid>
+      <description>只要心在跳动，就还有血的潮汐</description>
+    </item>
+    
+  </channel>
+</rss>

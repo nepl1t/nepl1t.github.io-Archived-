@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on nepl1t Type-3 Cafe</title>
-    <link>https://nepl1t.github.io/post/</link>
-    <description>Recent content in Posts on nepl1t Type-3 Cafe</description>
+    <title>CS on nepl1t Type-3 Cafe</title>
+    <link>https://nepl1t.github.io/tags/cs/</link>
+    <description>Recent content in CS on nepl1t Type-3 Cafe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Nov 2023 22:15:08 +0800</lastBuildDate><atom:link href="https://nepl1t.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 22:15:08 +0800</lastBuildDate><atom:link href="https://nepl1t.github.io/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MITMS01a_课程概述与Shell</title>
       <link>https://nepl1t.github.io/post/mitms/mitms.1a_shellsol/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://nepl1t.github.io/post/mitms/mitms.1_shell/</guid>
       <description>MIT Missing Semester 1, Course overview and the shell</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://nepl1t.github.io/post/%E6%89%80%E6%83%B3/first/</link>
-      <pubDate>Fri, 27 Oct 2023 10:57:57 +0800</pubDate>
-      
-      <guid>https://nepl1t.github.io/post/%E6%89%80%E6%83%B3/first/</guid>
-      <description>只要心在跳动，就还有血的潮汐</description>
     </item>
     
   </channel>
