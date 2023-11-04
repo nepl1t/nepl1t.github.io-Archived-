@@ -6,9 +6,18 @@
     <description>Recent content on nepl1t Type-3 Cafe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Nov 2023 16:43:23 +0800</lastBuildDate><atom:link href="https://nepl1t.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Nov 2023 15:17:01 +0800</lastBuildDate><atom:link href="https://nepl1t.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MITMS01_课程概述与Shell</title>
+      <title>Test</title>
+      <link>https://nepl1t.github.io/post/test/test/</link>
+      <pubDate>Sat, 04 Nov 2023 15:17:01 +0800</pubDate>
+      
+      <guid>https://nepl1t.github.io/post/test/test/</guid>
+      <description>This is a post.</description>
+    </item>
+    
+    <item>
+      <title>01_Intro_to_Shell</title>
       <link>https://nepl1t.github.io/post/mitms/01_intro_to_shell/</link>
       <pubDate>Thu, 02 Nov 2023 16:43:23 +0800</pubDate>
       
