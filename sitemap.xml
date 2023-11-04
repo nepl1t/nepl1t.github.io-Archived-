@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nepl1t.github.io/</loc>
-    <lastmod>2023-11-04T15:17:21+08:00</lastmod>
-  </url><url>
-    <loc>https://nepl1t.github.io/post/</loc>
-    <lastmod>2023-11-04T15:17:21+08:00</lastmod>
-  </url><url>
-    <loc>https://nepl1t.github.io/post/test/test/</loc>
-    <lastmod>2023-11-04T15:17:21+08:00</lastmod>
-  </url><url>
     <loc>https://nepl1t.github.io/tags/cs/</loc>
     <lastmod>2023-11-04T15:05:12+08:00</lastmod>
   </url><url>
     <loc>https://nepl1t.github.io/tags/mit-missing-semester/</loc>
     <lastmod>2023-11-04T15:05:12+08:00</lastmod>
   </url><url>
-    <loc>https://nepl1t.github.io/post/mitms/mitms.1a_shell/</loc>
+    <loc>https://nepl1t.github.io/post/mitms/mitms1a_shell/</loc>
+    <lastmod>2023-11-04T15:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://nepl1t.github.io/</loc>
+    <lastmod>2023-11-04T15:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://nepl1t.github.io/post/</loc>
     <lastmod>2023-11-04T15:05:12+08:00</lastmod>
   </url><url>
     <loc>https://nepl1t.github.io/tags/shell/</loc>
@@ -29,7 +26,7 @@
     <loc>https://nepl1t.github.io/tags/%E4%BD%9C%E4%B8%9A%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-11-04T15:05:12+08:00</lastmod>
   </url><url>
-    <loc>https://nepl1t.github.io/post/mitms/mitms.1_shell/</loc>
+    <loc>https://nepl1t.github.io/post/mitms/mitms1_shell/</loc>
     <lastmod>2023-11-04T14:54:29+08:00</lastmod>
   </url><url>
     <loc>https://nepl1t.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
