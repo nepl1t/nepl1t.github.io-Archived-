@@ -522,39 +522,28 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
-                <a href="https://nepl1t.github.io/post/test/test/">Test</a>
+                <a href="https://nepl1t.github.io/post/mitms/01_intro_to_shell/">01_intro_to_shell</a>
               </h3>
             </div>
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                This is a post.
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Sat, 04 Nov 2023 15:17:01 &#43;0800" class="no-wrap"
-                title=" Sat, 04 Nov 2023 15:17:01 &#43;0800">
-                Sat, 04 Nov 2023 15:17:01 &#43;0800
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="https://nepl1t.github.io/post/mitms/01_intro_to_shell/">01_Intro_to_Shell</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                MIT Missing Semester 1, Course overview and the shell
+                打开终端如下图
+其告诉你：你的用户名为Azusaislit，主机名为Roboride-Portab
+运行 date 程序，显示出当前时间
+可以在执行运行程序的命令的同时传递参数，比如运行 echo 程序的同时传递参数 Hello，这将会在你的终端输出 Hello
+如果希望传递的参数中包含空格（例如一个名为 My Photos 的文件夹），您要么用使用单引号'My Photos'，双引号将其包裹起来 &quot;My Photos&quot; ，要么使用转义符号 \ 进行处理（My\ Photos）。
+环境变量 是 shell 确定程序位置的一个基本方法，它就像编程语言的一种变量（实际上 shell 就是一种编程语言，可以用来编程，后面可以来写脚本）。它是在启动 shell 的时候就已经设置好了的，不需要用户每次手动配置
+路径变量 $PATH 是一类重要的环境变量：如果你要求 shell 执行某个指令，但是该指令并不是 shell 所了解的编程关键字，那么它会去咨询 环境变量 $PATH，其会列出当 shell 接到某条指令时，进行程序搜索的路径
+这是由冒号所分割的路径列表。电脑在$PATH寻找并尝试匹配你所需要的程序。
+运行程序可以直接输入程序名称，让 shell 从 $PATH 中寻找它，或者通过程序的绝对路径来运行
+绝对路径是完全可以确定文件位置的路径
+相对路径是相对你所在路径的路径。利用 pwd 命令可以查看当前所在的路径
+其告诉我我正位于 C:\Users\Azusaislit 文件夹中（我目前使用Windows系统下的Bash shell）
+而切换目录需要使用 cd 命令。在路径中，. 表示的是当前目录，而 .. 表示上级目录
+如果我们想知道所运行的程序是哪一个，我们可使用 which 命令
+即运行的 echo 程序位于 /usr/bin/echo
+在Windows上，每个分区都有一个根目录，每个分区都有一个单独的路径结构： C:\ D:\，而这样的路径用反斜杠分割
               </div>
             </div>
 
@@ -600,9 +589,35 @@
               
 
               Created
-              <relative-time datetime=" Thu, 02 Nov 2023 16:43:23 &#43;0800" class="no-wrap"
-                title=" Thu, 02 Nov 2023 16:43:23 &#43;0800">
-                Thu, 02 Nov 2023 16:43:23 &#43;0800
+              <relative-time datetime=" Sat, 04 Nov 2023 16:28:51 &#43;0800" class="no-wrap"
+                title=" Sat, 04 Nov 2023 16:28:51 &#43;0800">
+                Sat, 04 Nov 2023 16:28:51 &#43;0800
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
+                <a href="https://nepl1t.github.io/post/test/test/">Test</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                This is a post.
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Sat, 04 Nov 2023 15:17:01 &#43;0800" class="no-wrap"
+                title=" Sat, 04 Nov 2023 15:17:01 &#43;0800">
+                Sat, 04 Nov 2023 15:17:01 &#43;0800
               </relative-time>
             </div>
           </div>
